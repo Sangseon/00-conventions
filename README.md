@@ -6,13 +6,14 @@ Repository 관리 및 작성 규칙을 정리한다.
 
 ## Convention List
 
-| Convention                                                  | Description                                    | Status  | Last Updated |
-| ----------------------------------------------------------- | ---------------------------------------------- | ------- | ------------ |
-| [Repository Naming Convention](./docs/repository-naming.md) | Repository 분류 및 이름 작성 규칙              | Active  | 2026-10-27   |
-| [Repository README Convention](./docs/repository-readme.md) | 각 Repository의 `README.md` 작성 규칙          | Active  | 2026-10-27   |
-| [Commit Convention](./docs/commit-message.md)               | Commit Message 작성 및 관리 규칙               | Planned | -            |
-| [Branch Convention](./docs/branch-naming.md)                | Branch 생성 및 Naming 규칙                     | Planned | -            |
-| [Project Structure Convention](./docs/project-structure.md) | Repository 내부 디렉터리 및 프로젝트 구조 규칙 | Planned | -            |
+| Convention                                                            | Description                                    | Status  | Last Updated |
+| --------------------------------------------------------------------- | ---------------------------------------------- | ------- | ------------ |
+| [Repository Naming Convention](./docs/repository-naming.md)           | Repository 분류 및 이름 작성 규칙              | Active  | 2026-10-27   |
+| [Repository README Convention](./docs/repository-readme.md)           | 각 Repository의 `README.md` 작성 규칙          | Active  | 2026-10-27   |
+| [Project Classification Convention](./docs/project-classification.md) | 프로젝트의 Category 및 Topic 분류 규칙         | Active  | 2026-10-27   |
+| [Commit Convention](./docs/commit-message.md)                         | Commit Message 작성 및 관리 규칙               | Planned | -            |
+| [Branch Convention](./docs/branch-naming.md)                          | Branch 생성 및 Naming 규칙                     | Planned | -            |
+| [Project Structure Convention](./docs/project-structure.md)           | Repository 내부 디렉터리 및 프로젝트 구조 규칙 | Planned | -            |
 
 ## Status
 
@@ -46,6 +47,7 @@ Active
 └─ docs/
    ├─ repository-naming.md
    ├─ repository-readme.md
+   ├─ project-classification.md
    ├─ commit-message.md
    ├─ branch-naming.md
    └─ project-structure.md

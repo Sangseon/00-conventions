@@ -131,6 +131,20 @@ Transformer 기반 언어 모델의 Tokenization, Training, Generation 과정을
 TypeScript와 Node.js 환경에서 직접 실험하기 위한 Playground다.
 ```
 
+프로젝트에서 다루는 주요 Topic을 명시할 필요가 있는 경우 `Overview` 하위에 `### Topics`로 작성한다.
+
+`Topics`는 기본 README 구조의 별도 Section으로 추가하지 않으며, 필요하지 않은 경우 생략할 수 있다.
+
+예:
+
+```md
+### Topics
+
+- jwt
+- hmac
+- signature
+```
+
 ---
 
 ## 2.3 Focus
