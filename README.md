@@ -14,8 +14,8 @@ Repository 관리 및 작성 규칙을 정리한다.
 | [Commit Convention](./docs/commit-message.md)                           | Commit Message 작성 및 관리 규칙                                    | Active  | 2026-10-30   |
 | [Branch Convention](./docs/branch-naming.md)                            | Branch 생성 및 Naming 규칙                                          | Planned | -            |
 | [Project Structure Convention](./docs/project-structure.md)             | Repository 내부 디렉터리 및 프로젝트 구조 규칙                      | Planned | -            |
-| [AI Task Prompt Convention](./docs/ai-task-prompt.md)                   | AI 개발 도구에 전달하는 작업 프롬프트 작성 및 검증 기준             | Planned | -            |
-| [AI Project Instructions Convention](./docs/ai-project-instructions.md) | `AGENTS.md`, `CLAUDE.md` 등 AI 프로젝트 지침 파일 작성 및 관리 규칙 | Planned | -            |
+| [AI Task Prompt Convention](./docs/ai-task-prompt.md)                   | AI 개발 도구에 전달하는 작업 프롬프트 작성 및 검증 기준             | Draft   | 2026-10-30   |
+| [AI Project Instructions Convention](./docs/ai-project-instructions.md) | `AGENTS.md`, `CLAUDE.md` 등 AI 프로젝트 지침 파일 작성 및 관리 규칙 | Draft   | 2026-10-30   |
 
 ## Status
 
